@@ -8,11 +8,11 @@
 <div class="saitbar"
 style="
 position: absolute;
-top: 10vh;
-left:10vw;
+top: 35vh;
+left:5vw;
 background: #a23456;
 width: 100vh;
-height:10vw;
+height:35vw;
 " 
 >
 <ul class="menu-3">
