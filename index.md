@@ -5,7 +5,16 @@
 	<title></title>
 </head>
 <body>
-<div class="saitbar">
+<div class="saitbar"
+style="
+position: absolute;
+top: 10vh;
+left:10vw;
+background: #a23456;
+width: 10vh;
+height:10vw;
+" 
+>
 <ul class="menu-3">
    <li><a href="#">Первый пункт меню</a></li>
    <li><a href="#">Второй пункт меню</a></li>
