@@ -1,23 +1,13 @@
 
-      #navbar 
-
-      {
+      #navbar {
         margin: 0;
         padding: 0;
         list-style-type: none;
         width: 100px;
-<<<<<<< HEAD
-=======
-
->>>>>>> acc532623d0faa81afd9f534607815346cdd330c
       }
       #navbar li {
         border-left: 10px solid #666;
         border-bottom: 1px solid #666;
-<<<<<<< HEAD
-=======
-
->>>>>>> acc532623d0faa81afd9f534607815346cdd330c
       }
       #navbar a {
         background-color: #949494;
@@ -27,8 +17,8 @@
         font-weight: bold;
         border-left: 5px solid #33ADFF;
         display: block;
-<<<<<<< HEAD
-=======
-
->>>>>>> acc532623d0faa81afd9f534607815346cdd330c
+      }
+      #navbar a:hover {
+        background-color: #666;
+        border-left: 5px solid #3333FF;
       }
