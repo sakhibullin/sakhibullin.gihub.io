@@ -22,7 +22,7 @@ height:10vw;
    <li><a href="#" onclick="document.getElementById('z2').style.display='block'">О мне</a></li>
 </ul>
 </div>
-<p id="lol">Вам Нужен сайт?</p>
+<p id="lol">Вам Нужен сайт?Вы обратились по адресу</p>
 
 <p id="kek">Пока нет</p>
 
