@@ -10,7 +10,7 @@ style="
 position: absolute;
 top: 50vh;
 left:5vw;
-background: #a23456;
+background: #ffffff;
 width: 100vh;
 height:35vw;
 " 
