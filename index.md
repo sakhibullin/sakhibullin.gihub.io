@@ -5,13 +5,13 @@
 	<title></title>
 </head>
 <body>
-<div class="saitbar"
+<div 
 style="
 position: absolute;
 top: 50vh;
 left:3vw;
 background: #ffffff;
-width: 30vh;
+width: 32vh;
 height:10vw;
 " 
 >
