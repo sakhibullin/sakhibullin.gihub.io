@@ -9,8 +9,8 @@
       width:10vh; 
       height:10vw;
       position: absolute;
-      top: 10vh;
-      left:10vw;
+      top: 20vh;
+      left:8vw;
       background-color: #f5f5f5;
 	">
 	<ul id="navbar" >
