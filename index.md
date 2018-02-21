@@ -16,10 +16,10 @@ height:10vw;
 " 
 >
 <ul class="menu-3">
-   <li><a href="#">Главная</a></li>
-   <li><a href="#">Мои проекты</a></li>
-   <li><a href="#">Контакты</a></li>
-   <li><a href="#">О мне</a></li>
+   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol">Главная</p></a></li>
+   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol">Мои проекты</p></a></li>
+   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol"  >Контакты</p></a></li>
+   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol">О мне</p></a></li>
 </ul>
 </div>
 ##Привет вы на странице Альберта
