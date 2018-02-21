@@ -3,6 +3,7 @@
         padding: 0;
         list-style-type: none;
         width: 100px;
+                    position: absolute;
         top: 10vh;
         left:10vw;
       }
