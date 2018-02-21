@@ -5,11 +5,11 @@
 	<title></title>
 </head>
 <body>
-	<ul id="navbar">
+	<ul id="navbar" >
       <li><a href="#">Главная</a></li>
-      <li><a href="#">Новости</a></li>
+      <li><a href="#">Мои работы</a></li>
       <li><a href="#">Контакты</a></li>
-      <li><a href="#">О нас</a></li>
+      <li><a href="#">О мне</a></li>
     </ul>
 ##Привет вы на странице Альберта
 Здесь есть информация о мне
