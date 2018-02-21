@@ -5,20 +5,13 @@
 	<title></title>
 </head>
 <body>
-	<div id="table" style="
-      width:10vh; 
-      height:10vw;
-      position: absolute;
-      top: 20vh;
-      left:8vw;
-      background-color: #f5f5f5;
-	">
-	<ul id="navbar" >
-      <li><a href="#">Главная</a></li>
-      <li><a href="#">Мои работы</a></li>
-      <li><a href="#">Контакты</a></li>
-      <li><a href="#">О мне</a></li>
-    </ul>
+<div class="saitbar">
+<ul class="menu-3">
+   <li><a href="#">Первый пункт меню</a></li>
+   <li><a href="#">Второй пункт меню</a></li>
+   <li><a href="#">Третий пункт меню</a></li>
+   <li><a href="#">Четвёртый пункт меню</a></li>
+</ul>
 </div>
 ##Привет вы на странице Альберта
 Здесь есть информация о мне
