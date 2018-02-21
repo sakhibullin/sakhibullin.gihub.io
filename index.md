@@ -11,7 +11,7 @@ position: absolute;
 top: 50vh;
 left:5vw;
 background: #ffffff;
-width: 190vh;
+width: 30vh;
 height:10vw;
 " 
 >
