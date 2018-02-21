@@ -11,7 +11,7 @@
       position: absolute;
       top: 10vh;
       left:10vw;
-      background-color: #fff
+      background-color: #f5f5f5;
 	">
 	<ul id="navbar" >
       <li><a href="#">Главная</a></li>
