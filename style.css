@@ -1,4 +1,15 @@
-      #navbar {
+
+      #table{
+      width:10vh; 
+      height:10vw;
+      position: absolute;
+      top: 10vh;
+      left:10vw;
+      background-color: #fff;      
+
+      #navbar 
+
+      {
         margin: 0;
         padding: 0;
         list-style-type: none;
