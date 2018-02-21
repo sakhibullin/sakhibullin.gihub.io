@@ -12,7 +12,7 @@ top: 50vh;
 left:5vw;
 background: #ffffff;
 width: 100vh;
-height:35vw;
+height:10vw;
 " 
 >
 <ul class="menu-3">
