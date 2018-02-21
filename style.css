@@ -9,6 +9,8 @@
       #navbar li {
         border-left: 10px solid #666;
         border-bottom: 1px solid #666;
+                    top: 10vh;
+        left:10vw;
       }
       #navbar a {
         background-color: #949494;
