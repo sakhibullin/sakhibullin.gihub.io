@@ -5,7 +5,14 @@
 	<title></title>
 </head>
 <body>
-	<div id="table">
+	<div id="table" style="
+      width:10vh; 
+      height:10vw;
+      position: absolute;
+      top: 10vh;
+      left:10vw;
+      background-color: #fff
+	">
 	<ul id="navbar" >
       <li><a href="#">Главная</a></li>
       <li><a href="#">Мои работы</a></li>
