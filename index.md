@@ -16,12 +16,14 @@ height:10vw;
 " 
 >
 <ul class="menu-3">
-   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol">Главная</p></a></li>
-   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol">Мои проекты</p></a></li>
-   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol"  >Контакты</p></a></li>
-   <li><a href="#" onclick="document.getElementById('hidden').style.display='block'"><p id="lol">О мне</p></a></li>
+   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Главная</a></li>
+   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Мои проекты</a></li>
+   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Контакты</a></li>
+   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">О мне</a></li>
 </ul>
 </div>
+<p id="lol"> ye jr</p>
+
 ##Привет вы на странице Альберта
 Здесь есть информация о мне
 Я Изучаю языки програмирования такие как Html Css Js и может в скоре другие языки
