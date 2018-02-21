@@ -17,16 +17,19 @@ height:10vw;
 >
 <ul class="menu-3">
    <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Главная</a></li>
-   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Мои проекты</a></li>
-   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Контакты</a></li>
-   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">О мне</a></li>
+   <li><a href="#" onclick="document.getElementById('kek').style.display='block'">Мои проекты</a></li>
+   <li><a href="#" onclick="document.getElementById('z1').style.display='block'">Контакты</a></li>
+   <li><a href="#" onclick="document.getElementById('z2').style.display='block'">О мне</a></li>
 </ul>
 </div>
-<p id="lol"> ye jr</p>
+<p id="lol">Вам Нужен сайт?</p>
 
-##Привет вы на странице Альберта
-Здесь есть информация о мне
-Я Изучаю языки програмирования такие как Html Css Js и может в скоре другие языки
+<p id="kek">Пока нет</p>
+
+<p id="z1">Мой Вк <a href="https://vk.com/id215127522">Bk</a></p>
+
+<p id="z2">Меня Зовут Альберт.Я живу в г.Казань</p>
+
 </body>
 </html>
 
