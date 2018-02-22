@@ -72,7 +72,11 @@ top: -2vh;
 left:25vw;
 color:#14bdff;
 ">Мои проекты</h2>
-<div>
+<div style="
+position: absolute;
+top:5vh; 
+left:3vw;
+">
 <p id="kek" style="
 position: absolute;
 top: 3vh;
