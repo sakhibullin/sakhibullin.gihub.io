@@ -48,7 +48,7 @@ document.getElementById('lol').style.display='none'
 <div style="
 position: absolute;
 top: 1vh;
-left:20vw;
+left:16vw;
 width:45vw;
 height:45vh;
 background-color: #fff;
