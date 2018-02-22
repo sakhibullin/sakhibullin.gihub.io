@@ -45,17 +45,12 @@ document.getElementById('lol').style.display='none'
    ">О мне</a></li>
 
 
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div>
+<div style="
+position: absolute;
+top: 10vh;
+left:10vw;
+">
+ 
 <h2 id="lol" style="
 position: absolute;
 top: 10vh;
