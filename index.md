@@ -54,7 +54,7 @@ height:45vh;
 background-color: #fff;
 ">
 <p style="
-font-size: 10vw;
+font-size: 1vw;
 color: #8ac8ff;
 position: absolute;
 left: 25vw;
