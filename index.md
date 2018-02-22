@@ -57,7 +57,7 @@ background-color: #fff;
 color: #8ac8ff;
 position: absolute;
 left: 25vw;
-top: 1vh;
+top: 2vh;
 "> Главная</h2>
 
 <p id="lol"  
@@ -68,7 +68,7 @@ left:1vw;
 ">Вам Нужен сайт?Вы обратились по адресу </p> 
 <h2 id="kek" style="
 position: absolute;
-top: -1vh;
+top: -2vh;
 left:25vw;
 color:#14bdff;
 ">Мои проекты</h2>
@@ -79,7 +79,7 @@ top: 3vh;
 left:1vw;">Пока нет</p> </div>
 <h2 id="z1" style="
 position: absolute;
-top: -1vh;
+top: -2vh;
 left:25vw;
 color:#14bdff;
 ">Контакты</h2>
@@ -88,7 +88,7 @@ color: #000;
 ">Bk</a></p></div>
 <h2 id="z2" style="
 position: absolute;
-top: -1vh;
+top: -2vh;
 left:25vw;
 color:#14bdff;
 ">О бо мне</h2>
