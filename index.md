@@ -60,7 +60,12 @@ top: 1vh;
 left:45vw;
 color:#14bdff;
 ">Главная</h2>
-<p id="lol" >Вам Нужен сайт?Вы обратились по адресу ghjg </p> 
+<p id="lol"  style="
+position: absolute;
+top:3vh; 
+left:2vw;
+
+">Вам Нужен сайт?Вы обратились по адресу ghjgsef </p> 
 
 <p id="kek">Пока нет</p> 
 
