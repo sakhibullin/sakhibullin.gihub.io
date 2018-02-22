@@ -45,7 +45,7 @@ document.getElementById('lol').style.display='none'
    ">О мне</a></li>
 
 </ul>
-</div> 
+</div>
 <p id="lol">Вам Нужен сайт?Вы обратились по адресу</p> 
 
 <p id="kek">Пока нет</p> 
@@ -56,13 +56,8 @@ document.getElementById('lol').style.display='none'
 
 
 
-</ul>
 
- <p id="lol">Вам Нужен сайт?Вы обратились по адресу</p>
 
- <p id="kek">Пока нет
-<p id="z1">Мой Вк <a href="https://vk.com/id215127522">Bk</a></p>
- <p id="z2">Меня Зовут Альберт.Я живу в г.Казань</p>
 
 
 
