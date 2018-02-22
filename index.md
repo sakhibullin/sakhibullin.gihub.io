@@ -19,7 +19,7 @@ width: 32vh;
 height:10vw;
 " 
 > 
-<ul class="menu-3">
+
 
  <ul class="menu-3">
 
