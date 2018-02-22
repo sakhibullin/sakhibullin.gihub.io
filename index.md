@@ -53,14 +53,14 @@ width:45vh;
 height:45vw;
 background-color: #fff;
 ">
-<br style=""> 
+
 <h2 id="lol" style="
 position: absolute;
 top: 10vh;
 left:45vw;
 color:#14bdff;
 ">Главная</h2>
-<p id="lol" >Вам Нужен сайт?Вы обратились по адресу</p> 
+<p id="lol" >Вам Нужен сайт?Вы обратились по адресу drgdgdrthtfjh</p> 
 
 <p id="kek">Пока нет</p> 
 
