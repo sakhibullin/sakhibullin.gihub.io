@@ -7,15 +7,15 @@
 </head>
 <body style="font-family: Helvetica, Arial; ">	
 	<h1 style="font-size: 20vw;">Фломастеры от Альберта</h1>
-	<div>
+	<div style="display: inline-block;">
 		<p style="font-size: 20vw;">Цветные фломастеры</p>
 		<img src="https://c.pxhere.com/photos/06/5b/edding_felt_tip_pen_pens_flipchart_blue_green_red_black-776296.jpg!d" style=" width: 50vw; height:auto;"/>
 	</div>
-	<div>
+	<div  style="display: inline-block;">
 		<img src="https://c.pxhere.com/photos/db/d5/highlighter_fluorescent_pens_color_colorful_rainbow_colors-759968.jpg!d" style=" width: 50vw; height:auto;"/>
 		<p style="font-size: 20vw;">Маркеры для досок</p>
 	</div>
-	<div>
+	<div  style="display: inline-block;">
 		<p style="font-size: 20vw;">Линеры</p>
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Centropen.JPG/781px-Centropen.JPG" style=" width: 50vw; height:auto;"/>
 	</div>
