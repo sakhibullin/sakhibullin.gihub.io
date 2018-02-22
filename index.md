@@ -86,7 +86,9 @@ top: 1vh;
 left:25vw;
 color:#14bdff;
 ">Контакты</h2>
-<p id="z1">Мой Вк <a href="https://vk.com/id215127522">Bk</a></p>
+<p id="z1">Мой Вк <a href="https://vk.com/id215127522" style="
+color: #000;
+">Bk</a></p>
 <h2 id="lol" style="
 position: absolute;
 top: 1vh;
