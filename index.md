@@ -57,7 +57,7 @@ background-color: #fff;
 color: #8ac8ff;
 position: absolute;
 left: 25vw;
-top: 1vh;
+top: 2vh;
 "> Главная</h2>
 
 <p id="lol"  
