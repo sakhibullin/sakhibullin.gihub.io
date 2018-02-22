@@ -53,12 +53,12 @@ width:70vw;
 height:45vh;
 background-color: #fff;
 ">
-<p id="lol" style="
-font-size: 1vw;
+<h2 id="lol" style="
+font-size: 3vw;
 color: #8ac8ff;
 position: absolute;
 left: 25vw;
-"> Главная</p>
+"> Главная</h2>
 
 <p id="lol"  
 style="
