@@ -53,14 +53,18 @@ width:70vw;
 height:45vh;
 background-color: #fff;
 ">
-
+<p style="
+color: #8ac8ff;
+position: absolute;
+left: 25vw;
+"> Главная</p>
 
 <p id="lol"  
 style="
 position: absolute;
 top: 3vh;
 left:1vw;
-">Вам Нужен сайт?Вы обратились по адресу ghjgsef </p> 
+">Вам Нужен сайт?Вы обратились по адресу </p> 
 <h2 id="lol" style="
 position: absolute;
 top: 1vh;
