@@ -46,9 +46,10 @@ document.getElementById('lol').style.display='none'
 
 
 </div>
+<div>
 <h2 id="lol" style="
 position: absolute;
-top: 10vh;
+top: 40vh;
 left:45vw;
 color:#14bdff;
 ">Главнвя</h2>
@@ -59,3 +60,4 @@ color:#14bdff;
 <p id="z1">Мой Вк <a href="https://vk.com/id215127522">Bk</a></p>
 
 <p id="z2">Меня Зовут Альберт.Я живу в г.Казань</p>
+</div>
