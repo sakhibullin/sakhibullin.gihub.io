@@ -45,7 +45,6 @@ document.getElementById('lol').style.display='none'
    ">О мне</a></li>
 
 
-</div>
 <p id="lol">Вам Нужен сайт?Вы обратились по адресу</p> 
 
 <p id="kek">Пока нет</p> 
