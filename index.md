@@ -44,7 +44,7 @@ document.getElementById('z1').style.display='none'
 document.getElementById('lol').style.display='none'
    ">О мне</a></li>
 
-</ul>
+
 </div>
 <p id="lol">Вам Нужен сайт?Вы обратились по адресу</p> 
 
