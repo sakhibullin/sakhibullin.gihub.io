@@ -49,10 +49,10 @@ document.getElementById('lol').style.display='none'
 <div>
 <h2 id="lol" style="
 position: absolute;
-top: -10vh;
+top: 10vh;
 left:45vw;
 color:#14bdff;
-">Главнвя</h2>
+">Главная</h2>
 <p id="lol" >Вам Нужен сайт?Вы обратились по адресу</p> 
 
 <p id="kek">Пока нет</p> 
