@@ -49,7 +49,7 @@ document.getElementById('lol').style.display='none'
 position: absolute;
 top: -5vh;
 left:16vw;
-width:74vw;
+width:70vw;
 height:45vh;
 background-color: #fff;
 ">
@@ -60,7 +60,7 @@ top: 1vh;
 left:45vw;
 color:#14bdff;
 ">Главная</h2>
-<p id="lol" >Вам Нужен сайт?Вы обратились по адресу </p> 
+<p id="lol" >Вам Нужен сайт?Вы обратились по адресу ghjg </p> 
 
 <p id="kek">Пока нет</p> 
 
