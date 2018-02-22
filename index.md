@@ -56,7 +56,7 @@ background-color: #fff;
 
 <h2 id="lol" style="
 position: absolute;
-top: 10vh;
+top: 1vh;
 left:45vw;
 color:#14bdff;
 ">Главная</h2>
