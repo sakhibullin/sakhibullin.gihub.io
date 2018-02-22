@@ -72,28 +72,30 @@ top: -1vh;
 left:25vw;
 color:#14bdff;
 ">Мои проекты</h2>
+<div>
 <p id="kek" style="
 position: absolute;
 top: 3vh;
-left:1vw;">Пока нет</p> 
+left:1vw;">Пока нет</p> </div>
 <h2 id="z1" style="
 position: absolute;
 top: -1vh;
 left:25vw;
 color:#14bdff;
 ">Контакты</h2>
-<p id="z1">Мой Вк <a href="https://vk.com/id215127522" style="
+<div><p id="z1">Мой Вк <a href="https://vk.com/id215127522" style="
 color: #000;
-">Bk</a></p>
+">Bk</a></p></div>
 <h2 id="z2" style="
 position: absolute;
 top: -1vh;
 left:25vw;
 color:#14bdff;
 ">О бо мне</h2>
-<p id="z2" style="
+<div><p id="z2" style="
 position: absolute;
 top: 3vh;
 left:1vw;
 ">Меня Зовут Альберт.Я живу в г.Казань</p>
+</div>
 </div>
