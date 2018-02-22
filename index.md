@@ -66,7 +66,7 @@ position: absolute;
 top: 5vh;
 left:1vw;
 ">Вам Нужен сайт?Вы обратились по адресу </p> 
-<h2 id="lol" style="
+<h2 id="kek" style="
 position: absolute;
 top: 1vh;
 left:25vw;
@@ -76,7 +76,7 @@ color:#14bdff;
 position: absolute;
 top: 3vh;
 left:1vw;">Пока нет</p> 
-<h2 id="lol" style="
+<h2 id="z1" style="
 position: absolute;
 top: 1vh;
 left:25vw;
@@ -85,7 +85,7 @@ color:#14bdff;
 <p id="z1">Мой Вк <a href="https://vk.com/id215127522" style="
 color: #000;
 ">Bk</a></p>
-<h2 id="lol" style="
+<h2 id="z2" style="
 position: absolute;
 top: 1vh;
 left:25vw;
