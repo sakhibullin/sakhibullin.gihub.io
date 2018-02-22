@@ -53,7 +53,7 @@ width:70vw;
 height:45vh;
 background-color: #fff;
 ">
-<p style="
+<p id="lol" style="
 font-size: 1vw;
 color: #8ac8ff;
 position: absolute;
