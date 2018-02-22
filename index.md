@@ -80,7 +80,9 @@ left:3vw;
 <p id="kek" style="
 position: absolute;
 top: 3vh;
-left:1vw;">Пока нет</p> </div>
+left:1vw;
+color: #000;
+">Пока нет</p> </div>
 <h2 id="z1" style="
 position: absolute;
 top: -2vh;
