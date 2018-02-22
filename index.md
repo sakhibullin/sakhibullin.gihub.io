@@ -64,10 +64,11 @@ left:15vw;
 
 color:#14bdff;
 ">Главная</h2>
-<p id="lol"  style="
+<p id="lol"  
+style="
 position: absolute;
-top:3vh; 
-left:2vw;
+top: 3vh;
+left:1vw;
 ">Вам Нужен сайт?Вы обратились по адресу ghjgsef </p> 
 <h2 id="lol" style="
 position: absolute;
@@ -75,7 +76,10 @@ top: 1vh;
 left:15vw;
 color:#14bdff;
 ">Мои проекты</h2>
-<p id="kek">Пока нет</p> 
+<p id="kek" style="
+position: absolute;
+top: 3vh;
+left:1vw;">Пока нет</p> 
 <h2 id="lol" style="
 position: absolute;
 top: 1vh;
@@ -89,5 +93,9 @@ top: 1vh;
 left:15vw;
 color:#14bdff;
 ">О бо мне</h2>
-<p id="z2">Меня Зовут Альберт.Я живу в г.Казань</p>
+<p id="z2" style="
+position: absolute;
+top: 3vh;
+left:1vw;
+">Меня Зовут Альберт.Я живу в г.Казань</p>
 </div>
