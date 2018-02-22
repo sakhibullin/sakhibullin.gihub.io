@@ -23,10 +23,26 @@ height:10vw;
 
  <ul class="menu-3">
 
-   <li><a href="#" onclick="document.getElementById('lol').style.display='block'">Главная</a></li>
-   <li><a href="#" onclick="document.getElementById('kek').style.display='block'">Мои проекты</a></li>
-   <li><a href="#" onclick="document.getElementById('z1').style.display='block'">Контакты</a></li>
-   <li><a href="#" onclick="document.getElementById('z2').style.display='block'">О мне</a></li>
+   <li><a href="#" onclick="document.getElementById('lol').style.display='block';
+document.getElementById('kek').style.display='none'
+document.getElementById('z1').style.display='none'
+document.getElementById('z2').style.display='none'
+   ">Главная</a></li>
+   <li><a href="#" onclick="document.getElementById('kek').style.display='block';
+document.getElementById('lol').style.display='none'
+document.getElementById('z1').style.display='none'
+document.getElementById('z2').style.display='none'
+   ">Мои проекты</a></li>
+   <li><a href="#" onclick="document.getElementById('z1').style.display='block';
+document.getElementById('lol').style.display='none'
+document.getElementById('kek').style.display='none'
+document.getElementById('z2').style.display='none'
+   ">Контакты</a></li>
+   <li><a href="#" onclick="document.getElementById('z2').style.display='block';
+document.getElementById('kek').style.display='none'
+document.getElementById('z1').style.display='none'
+document.getElementById('lol').style.display='none'
+   ">О мне</a></li>
 
 </ul>
 </div> 
