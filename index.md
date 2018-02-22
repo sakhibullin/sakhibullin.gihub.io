@@ -57,7 +57,7 @@ document.getElementById('lol').style.display='none'
 
 
 </ul>
- </div>
+
  <p id="lol">Вам Нужен сайт?Вы обратились по адресу</p>
 
  <p id="kek">Пока нет
@@ -67,5 +67,3 @@ document.getElementById('lol').style.display='none'
 
 
 
-</body>
-</html>
