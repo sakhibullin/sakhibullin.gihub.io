@@ -68,7 +68,7 @@ left:1vw;
 ">Вам Нужен сайт?Вы обратились по адресу </p> 
 <h2 id="kek" style="
 position: absolute;
-top: 1vh;
+top: -1vh;
 left:25vw;
 color:#14bdff;
 ">Мои проекты</h2>
@@ -78,7 +78,7 @@ top: 3vh;
 left:1vw;">Пока нет</p> 
 <h2 id="z1" style="
 position: absolute;
-top: 1vh;
+top: -1vh;
 left:25vw;
 color:#14bdff;
 ">Контакты</h2>
@@ -87,7 +87,7 @@ color: #000;
 ">Bk</a></p>
 <h2 id="z2" style="
 position: absolute;
-top: 1vh;
+top: -1vh;
 left:25vw;
 color:#14bdff;
 ">О бо мне</h2>
