@@ -49,7 +49,7 @@ document.getElementById('lol').style.display='none'
 <div>
 <h2 id="lol" style="
 position: absolute;
-top: 100vh;
+top: 110vh;
 left:45vw;
 color:#14bdff;
 ">Главнвя</h2>
