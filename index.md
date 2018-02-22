@@ -70,10 +70,37 @@ top:3vh;
 left:2vw;
 
 ">Вам Нужен сайт?Вы обратились по адресу ghjgsef </p> 
+<h2 id="lol" style="
+position: absolute;
+top: 1vh;
 
+left:15vw;
+
+left:25vw;
+
+color:#14bdff;
+">Мои проекты</h2>
 <p id="kek">Пока нет</p> 
+<h2 id="lol" style="
+position: absolute;
+top: 1vh;
 
+left:15vw;
+
+left:25vw;
+
+color:#14bdff;
+">Контакты</h2>
 <p id="z1">Мой Вк <a href="https://vk.com/id215127522">Bk</a></p>
+<h2 id="lol" style="
+position: absolute;
+top: 1vh;
 
+left:15vw;
+
+left:25vw;
+
+color:#14bdff;
+">О бо мне</h2>
 <p id="z2">Меня Зовут Альберт.Я живу в г.Казань</p>
 </div>
