@@ -1,10 +1,12 @@
 
 <html>
 <head>
+	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<title></title>
+	<titleСайт Альберта</title>
 </head>
 <body>
+	<h1>234</h1>
 <div 
 style="
 position: absolute;
