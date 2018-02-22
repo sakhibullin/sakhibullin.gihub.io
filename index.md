@@ -49,7 +49,7 @@ document.getElementById('lol').style.display='none'
 position: absolute;
 top: -5vh;
 left:16vw;
-width:45vw;
+width:90vw;
 height:45vh;
 background-color: #fff;
 ">
