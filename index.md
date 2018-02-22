@@ -47,10 +47,13 @@ document.getElementById('lol').style.display='none'
 
 <div style="
 position: absolute;
-top: 10vh;
-left:10vw;
+top: 7vh;
+left:15vw;
+width:45vh;
+height:45vw;
+background-color: #fff;
 ">
- 
+<br style=""> 
 <h2 id="lol" style="
 position: absolute;
 top: 10vh;
