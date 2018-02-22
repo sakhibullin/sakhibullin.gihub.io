@@ -46,6 +46,15 @@ document.getElementById('lol').style.display='none'
 
 
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <div>
 <h2 id="lol" style="
 position: absolute;
