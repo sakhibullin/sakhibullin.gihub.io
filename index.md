@@ -98,7 +98,6 @@ position: absolute;
 top:5vh; 
 left:3vw;
 ">
- </div>
 <h2 id="z1" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: none;">Контакты<p>Мой Вк <a href="https://vk.com/id215127522" style="
 color: #000;
 ">Bk</a></p></h2>
@@ -111,5 +110,4 @@ left:1vw;
 
 </div>
 </div>
-</ul></div>
-</body></html>
+</ul>
