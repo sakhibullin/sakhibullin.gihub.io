@@ -63,10 +63,7 @@ background-color: #fff;
 position: absolute;
 top: 10vh;
 
-left:-50vw;
-
-left:-150vw;
-
+left:-20vw;
 
 ">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
 
@@ -75,7 +72,7 @@ left:-150vw;
   <p style="
 position: absolute;
 top: 3vh;
-left:-50vw;
+left:-20vw;
 ">Пока нет</p></h2>
 <div style="
 position: absolute;
