@@ -1,4 +1,5 @@
-
+<html>
+<head>
 
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style.css">
@@ -7,7 +8,7 @@
 	
 	
 
-
+</head>
 <div style="
 position: absolute;
 top: 50vh;
