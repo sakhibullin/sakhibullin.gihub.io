@@ -92,12 +92,11 @@ color: #000;
 ">Bk</a></p></h2>
 <h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;weight:2vh;height:10vw;">О<span  
 style="
-color:#000;
+color:#fff;
 "
-
 >_</span>бо<span
 style="
-color:#000;
+color:#fff;
 "
 >_</span>мне<p style="
 position: absolute;
