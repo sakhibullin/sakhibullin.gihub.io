@@ -52,7 +52,6 @@ left:16vw;
 width:70vw;
 height:45vh;
 background-color: #fff;
-z-index: 0;
 ">
 <h2 id="lol" style="
 color: #8ac8ff;
@@ -66,7 +65,6 @@ style="
 position: absolute;
 top: 50vh;
 left:20vw;
-z-index: 1;
 ">Вам Нужен сайт?Вы обратились по адресу </p> 
 <h2 id="kek" style="
 position: absolute;
