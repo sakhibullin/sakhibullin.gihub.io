@@ -62,7 +62,7 @@ background-color: #fff;
 <h2 id="lol" style="color: rgb(138, 200, 255); position: absolute; left: 25vw; top: 2vh; display: none;"> Главная<p style="
 position: absolute;
 top: 10vh;
-left:1vw;
+left:-50vw;
 ">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
 
 
@@ -70,7 +70,7 @@ left:1vw;
   <p style="
 position: absolute;
 top: 3vh;
-left:1vw;
+left:-50vw;
 ">Пока нет</p></h2>
 <div style="
 position: absolute;
