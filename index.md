@@ -9,16 +9,19 @@
 	
 
 
-
-
-
- <ul class="menu-3" style="
+<div 
+style="
 position: absolute;
-top:10vh; 
-left:10vw;
-width:10vh;
+top: 50vh;
+left:3vw;
+background: #ffffff;
+width: 32vh;
 height:10vw;
- ">
+" 
+> 
+
+
+ <ul class="menu-3">
 
    <li><a href="#" onclick="document.getElementById('lol').style.display='block';
 document.getElementById('kek').style.display='none'
@@ -44,19 +47,17 @@ document.getElementById('lol').style.display='none'
 
 <div style="
 position: absolute;
-top: 100vh;
+top: -5vh;
 left:16vw;
 width:70vw;
 height:45vh;
 background-color: #fff;
-z-index: 0;
 ">
 <h2 id="lol" style="
 color: #8ac8ff;
 position: absolute;
 left: 25vw;
 top: 2vh;
-z-index: 1;
 "> Главная</h2>
 
 <p id="lol"  
