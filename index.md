@@ -1,4 +1,14 @@
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Сайт Альберта</title>
+</head>
 <body style="font-family: Helvetica, Arial; ">	
+	
+
+
 <div 
 style="
 position: absolute;
@@ -7,10 +17,11 @@ left:3vw;
 background: #ffffff;
 width: 32vh;
 height:10vw;
-
 " 
 > 
-<ul class="menu-3">
+
+
+ <ul class="menu-3">
 
    <li><a href="#" onclick="document.getElementById('lol').style.display='block';
 document.getElementById('kek').style.display='none'
