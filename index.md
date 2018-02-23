@@ -19,7 +19,15 @@ height:10vw;
 "> 
 
 
- <ul class="menu-3">
+ <ul class="menu-3"  
+style="
+     margin: 0;
+     padding: 0;
+     background-color: #fff;
+     height: auto;
+     list-style-type: none;
+" 
+ >
 
    <li><a href="#" onclick="document.getElementById('lol').style.display='block';
 document.getElementById('kek').style.display='none'
