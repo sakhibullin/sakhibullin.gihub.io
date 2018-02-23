@@ -12,7 +12,13 @@
 
 
 
- <ul class="menu-3">
+ <ul class="menu-3" style="
+position: absolute;
+top:10vh; 
+left:10vw;
+width:10vh;
+height:10vw;
+ ">
 
    <li><a href="#" onclick="document.getElementById('lol').style.display='block';
 document.getElementById('kek').style.display='none'
