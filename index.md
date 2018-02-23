@@ -64,7 +64,7 @@ top: 2vh;
 style="
 position: absolute;
 top: 5vh;
-left:1vw;
+left:20vw;
 ">Вам Нужен сайт?Вы обратились по адресу </p> 
 <h2 id="kek" style="
 position: absolute;
