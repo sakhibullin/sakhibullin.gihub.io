@@ -9,16 +9,7 @@
 	
 
 
-<div 
-style="
-position: absolute;
-top: 50vh;
-left:3vw;
-background: #ffffff;
-width: 32vh;
-height:10vw;
-" 
-> 
+
 
 
  <ul class="menu-3">
