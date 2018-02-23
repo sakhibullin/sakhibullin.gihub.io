@@ -63,7 +63,7 @@ top: 2vh;
 <p id="lol"  
 style="
 position: absolute;
-top: 5vh;
+top: 50vh;
 left:20vw;
 ">Вам Нужен сайт?Вы обратились по адресу </p> 
 <h2 id="kek" style="
