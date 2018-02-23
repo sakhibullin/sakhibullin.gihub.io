@@ -90,7 +90,16 @@ left:-20vw;
 	>Мой Вк <a href="https://vk.com/id215127522" style="
 color: #000;
 ">Bk</a></p></h2>
-<h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;weight:2vh;height:10vw;">О бо мне<p style="
+<h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;weight:2vh;height:10vw;">О<span  
+style="
+color:#000;
+"
+
+>_</span>бо<span
+style="
+color:#000;
+"
+>_</span>мне<p style="
 position: absolute;
 top: 3vh;
 left:-22.5vw;
