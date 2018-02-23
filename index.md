@@ -63,6 +63,8 @@ background-color: #fff;
 position: absolute;
 top: 10vh;
 left:-50vw;
+left:-10vw;
+
 ">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
 
 
