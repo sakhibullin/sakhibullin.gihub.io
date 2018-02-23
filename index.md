@@ -90,7 +90,7 @@ color: #000;
 ">Bk</a></p></h2>
 <h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;font-size: 3vw;">О бо мне<p style="
 position: absolute;
-top: 4vh;
+top: 6vh;
 left:-20vw;
   color:#000;
   font-size: 2vw;
