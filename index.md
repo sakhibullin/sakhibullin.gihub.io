@@ -64,7 +64,7 @@ position: absolute;
 top: 10vh;
 left:-20vw;
 color: #000;
-font-size: 0.5vw;
+font-size: 3vw;
 
 ">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
 
@@ -75,29 +75,30 @@ position: absolute;
 top: 3vh;
 left:-20vw;
 color: #000;
+font-size: 3vw;
 ">Пока нет</p></h2>
 <div style="
 position: absolute;
 top:5vh; 
 left:3vw;
-font-size: 0.5vw;
+
 ">
 <h2 id="z1" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: none;">Контакты<p style="
 position: absolute;
 top: 3vh;
 left:-20vw;
   color:#000;
-  font-size: 0.5vw;
+  font-size: 3vw;
 " 
 	>Мой Вк <a href="https://vk.com/id215127522" style="
 color: #000;
 ">Bk</a></p></h2>
-<h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;">О бо мне<p style="
+<h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;font-size: 5vw;">О бо мне<p style="
 position: absolute;
 top: 3vh;
 left:-20vw;
   color:#000;
-  font-size: 0.5vw;
+  font-size: 3vw;
 ">Меня Зовут Альберт.Я живу в г.Казань</p></h2>
 
 
