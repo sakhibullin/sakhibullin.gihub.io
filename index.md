@@ -7,7 +7,7 @@ left:3vw;
 background: #ffffff;
 width: 32vh;
 height:10vw;
-z-index: 0;
+
 " 
 > 
 <ul class="menu-3">
