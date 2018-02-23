@@ -93,7 +93,7 @@ color: #000;
 <h2 id="z2" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: block;">О бо мне<p style="
 position: absolute;
 top: 3vh;
-left:-25vw;
+left:-22.5vw;
   color:#000
 ">Меня Зовут Альберт.Я живу в г.Казань</p></h2>
 
