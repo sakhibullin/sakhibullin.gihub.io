@@ -43,12 +43,14 @@ left:16vw;
 width:70vw;
 height:45vh;
 background-color: #fff;
+z-index: 0;
 ">
 <h2 id="lol" style="
 color: #8ac8ff;
 position: absolute;
 left: 25vw;
 top: 2vh;
+z-index: 1;
 "> Главная</h2>
 
 <p id="lol"  
