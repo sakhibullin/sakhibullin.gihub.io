@@ -1,33 +1,3 @@
-<html lang="en-US"><head>
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>sakhibullin.github.io</title>
-<meta property="og:title" content="sakhibullin.github.io">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://sakhibullin.github.io/">
-<meta property="og:url" content="https://sakhibullin.github.io/">
-<meta property="og:site_name" content="sakhibullin.github.io">
-<script type="application/ld+json">
-{"name":"sakhibullin.github.io","description":null,"author":null,"@type":"WebSite","url":"https://sakhibullin.github.io/","image":null,"publisher":null,"headline":"sakhibullin.github.io","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/assets/css/style.css?v=e6229e09b40f3f60edd26e600f7172d5400aa7ed">
-  </head>
-  <body style="font-family: Helvetica, Arial; ">
-    <section class="page-header">
-      <h1 class="project-name">sakhibullin.github.io</h1>
-      <h2 class="project-tagline"></h2>
-      
-      
-    </section>
-
-    <section class="main-content">
-      
 
 
 	<meta charset="utf-8">
@@ -108,6 +78,4 @@ left:1vw;
   color:#000
 ">Меня Зовут Альберт.Я живу в г.Казань</p></h2>
 
-</div>
-</div>
-</ul>
+
