@@ -62,8 +62,7 @@ background-color: #fff;
 <h2 id="lol" style="color: rgb(138, 200, 255); position: absolute; left: 25vw; top: 2vh; display: none;"> Главная<p style="
 position: absolute;
 top: 10vh;
-left:-50vw;
-left:-10vw;
+left:-100vw;
 
 ">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
 
