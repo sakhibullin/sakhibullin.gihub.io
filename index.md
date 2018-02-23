@@ -58,50 +58,50 @@ color: #8ac8ff;
 position: absolute;
 left: 25vw;
 top: 2vh;
-"> Главная</h2>
-
-<p id="lol"  
+"> Главная
+<p  
 style="
 position: absolute;
 top: 50vh;
 left:20vw;
-">Вам Нужен сайт?Вы обратились по адресу </p> 
+">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
+
+
 <h2 id="kek" style="
 position: absolute;
 top: -2vh;
 left:25vw;
 color:#14bdff;
-">Мои проекты</h2>
-<div style="
-position: absolute;
-top:5vh; 
-left:3vw;
-">
-<p id="kek" style="
+">Мои проекты
+<p style="
 position: absolute;
 top: 3vh;
 left:1vw;
 color: #000;
-">Пока нет</p> </div>
+">Пока нет</p> </h2>
+
+ 
 <h2 id="z1" style="
 position: absolute;
 top: -2vh;
 left:25vw;
 color:#14bdff;
-">Контакты</h2>
-<div><p id="z1">Мой Вк <a href="https://vk.com/id215127522" style="
+">Контакты
+<p >Мой Вк <a href="https://vk.com/id215127522" style="
 color: #000;
-">Bk</a></p></div>
+">Bk</a></p></h2>
+
 <h2 id="z2" style="
 position: absolute;
 top: -2vh;
 left:25vw;
 color:#14bdff;
-">О бо мне</h2>
-<div><p id="z2" style="
+">О бо мне
+<p style="
 position: absolute;
 top: 3vh;
 left:1vw;
-">Меня Зовут Альберт.Я живу в г.Казань</p>
+">Меня Зовут Альберт.Я живу в г.Казань</p></h2>
+
 </div>
 </div>
