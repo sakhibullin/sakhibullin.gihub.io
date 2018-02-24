@@ -71,8 +71,8 @@ font-size: 2vw;
 <ul class="z3" style="
 color: #000;
 position: absolute;
-top: 20vh;
-left:-25vw;
+top: 21vh;
+left:-26vw;
 
 ">
   <ol>Логотип</ol>
@@ -80,9 +80,14 @@ left:-25vw;
 <ol>Деньги</ol>
 
 
-</ul>
+</ul><p style="
+color: #000;
+position: absolute;
+top:24vh; 
+left:-26vw;
+">
 <br>Цена зависит от сложности создания сайта.
-<br>Одностраничник или Многостраничникю 
+<br>Одностраничник или Многостраничник</p> 
 </p> </h2>
 
 
