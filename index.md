@@ -73,6 +73,7 @@ color: #000;
 position: absolute;
 top: 26vh;
 left:-26vw;
+font-size: 1.5vw;
 
 ">
   <ol>Логотип</ol>
@@ -84,7 +85,8 @@ left:-26vw;
 color: #000;
 position: absolute;
 top:24vh; 
-left:-45vw;
+left:1vw;
+font-size: 1.5vw;
 ">
 <br>Цена_зависит_от_сложности_создания_сайта.
 <br>Одностраничник_или_Многостраничник</p> 
