@@ -71,8 +71,8 @@ font-size: 2vw;
 <ul class="z3" style="
 color: #000;
 position: absolute;
-top: 15vh;
-left:-10vw;
+top: 20vh;
+left:-30vw;
 
 ">
   <ol>Логотип</ol>
