@@ -48,7 +48,7 @@ document.getElementById('z2').style.display='none'
 document.getElementById('kek').style.display='none'
 document.getElementById('z1').style.display='none'
 document.getElementById('lol').style.display='none'
-   ">О мне</a></li>
+   ">О бо мне</a></li>
 
 
 <div style="
@@ -66,7 +66,16 @@ left:-20vw;
 color: #000;
 font-size: 2vw;
 
-">Вам Нужен сайт?Вы обратились по адресу </p> </h2>
+">Вам Нужен сайт?Вы обратились по адресу.<br>Закажите сайт у меня вам потребуется<ul>
+  <li>Логотип</li>
+  <li>Примерно нарисованный сайт</li>
+<li>Деньги</li>
+
+
+</ul>
+<br>Цена зависит от сложности создания сайта.
+<br>Одностраничник или Многостраничникю 
+</p> </h2>
 
 
 <h2 id="kek" style="position: absolute; top: -2vh; left: 25vw; color: rgb(20, 189, 255); display: none;">Мои проекты
@@ -94,6 +103,6 @@ top: 7.5vh;
 left:-20vw;
   color:#000;
   font-size: 2vw;
-">Меня Зовут Альберт.Я живу в г.Казань</p></h2>
+">Меня Зовут Альберт.Я живу в г.Казань.Угусь в 7 классе Лицея имени Н.И.Лобачевского.</p></h2>
 
 
