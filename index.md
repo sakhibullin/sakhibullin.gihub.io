@@ -71,7 +71,11 @@ font-size: 2vw;
 <ul class="z3" style="
 color: #000;
 position: absolute;
+
 top: 21vh;
+
+top: 23vh;
+
 left:-26vw;
 
 ">
