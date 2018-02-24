@@ -71,7 +71,7 @@ font-size: 1.5vw;
 <ul class="z3" style="
 color: #000;
 position: absolute;
-top: 26vh;
+top: 28vh;
 left:-26vw;
 font-size: 1.5vw;
 
@@ -85,7 +85,7 @@ font-size: 1.5vw;
 color: #000;
 position: absolute;
 top:24vh; 
-left:1vw;
+left:5vw;
 font-size: 1.5vw;
 ">
 <br>Цена_зависит_от_сложности_создания_сайта.
