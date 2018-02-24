@@ -64,14 +64,14 @@ position: absolute;
 top: 10vh;
 left:-20vw;
 color: #000;
-font-size: 2vw;
+font-size: 1.5vw;
 
 ">Вам Нужен сайт?Вы обратились по адресу.<br>Закажите сайт у меня вам потребуется:
 
 <ul class="z3" style="
 color: #000;
 position: absolute;
-top: 23vh;
+top: 26vh;
 left:-26vw;
 
 ">
@@ -84,10 +84,10 @@ left:-26vw;
 color: #000;
 position: absolute;
 top:24vh; 
-left:-26vw;
+left:-45vw;
 ">
 <br>Цена_зависит_от_сложности_создания_сайта.
-<br>Одностраничник_sили_Многостраничник</p> 
+<br>Одностраничник_или_Многостраничник</p> 
 </p> </h2>
 
 
