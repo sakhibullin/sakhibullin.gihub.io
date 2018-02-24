@@ -72,7 +72,7 @@ font-size: 2vw;
 color: #000;
 position: absolute;
 top: 23vh;
-left:-28vw;
+left:-26vw;
 
 ">
   <ol>Логотип</ol>
