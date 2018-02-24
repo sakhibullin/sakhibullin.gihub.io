@@ -88,8 +88,8 @@ top:24vh;
 left:5vw;
 font-size: 1.5vw;
 ">
-<br>Цена_зависит_от_сложности_создания_сайта.
-<br>Одностраничник_или_Многостраничник</p> 
+<br>Цена<span style="color: #fff;">_</span>зависит<span style="color: #fff;">_</span>от<span style="color: #fff;">_</span>сложности<span style="color: #fff;">_</span>создания<span style="color: #fff;">_</span>сайта.
+<br>Одностраничник<span style="color: #fff;">_</span>или<span style="color: #fff;">_</span>Многостраничник</p> 
 </p> </h2>
 
 
