@@ -15,7 +15,9 @@ top: 50vh;
 left:3vw;
 background: #ffffff;
 width: 32vh;
+min-width:10vh;
 height:10vw;
+min-height:32vh;
 "> 
 
 
@@ -57,6 +59,8 @@ top: -5vh;
 left:16vw;
 width:70vw;
 height:45vh;
+min-width:45vw;
+min-height:70vh;
 background-color: #fff;
 ">
 <h2 id="lol" style="color: rgb(138, 200, 255); position: absolute; left: 25vw; top: 2vh; display: none;"> Главная<p style="
